@@ -27,3 +27,62 @@ h2 {
 padding-top: 30px;
   text-align: center;
 }
+
+article {
+  margin-top: 0px;
+  border-top: 6px solid red;
+  background-color: palegreen;
+  width: 290px;
+  height: 600px;
+}
+
+.dark {
+  font-weight: bold;
+  margin-right: 160px;
+  color: black;
+}
+
+.vador {
+  margin-right: 150px;
+  color: black;
+}
+
+.first {
+  margin-right: 90px;
+  color: black;
+}
+
+.two {
+  margin-right: 10px;
+  color: black;
+}
+
+.three {
+  margin-right: 140px;
+  color: black;
+}
+
+.four {
+  font-weight: bold;
+  margin-right: 160px;
+  color: black;
+}
+.five {
+  margin-right: 60px;
+  color: black
+}
+
+.six {
+  font-weight: bold;
+  margin-right: 210px;
+  color: black;
+}
+.seven {
+  margin-right: 120px;
+  color: black;
+}
+
+.eight {
+  margin-right: 90px;
+  color: black;
+}

@@ -1,5 +1,5 @@
 header{
-  width: 1292px;
+  width: 1090px;
   background-color: aqua;
 }
 
@@ -89,4 +89,18 @@ article {
 .nine {
   margin-right: 190px;
   color: black;
+}
+
+section {
+  background-color: cornflowerblue;
+  margin-left: 290px;
+  margin-top: -626px;
+  width: 800px;
+  height: 606px;
+}
+
+.ten {
+  color: black;
+  padding-top: 10px;
+  font-weight: bold;
 }

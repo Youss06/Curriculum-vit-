@@ -104,3 +104,64 @@ section {
   padding-top: 10px;
   font-weight: bold;
 }
+
+.eleven {
+  color: black;
+  text-decoration:  red underline;
+  margin-right: 470px;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 30px;
+}
+
+.azer {
+  color: black;
+  margin-right: 430px;
+}
+
+
+.twelve {
+  color: black;
+  margin-right: 501px;
+  font-size: 15px;
+}
+
+.thirteen {
+  color: black;
+  margin-right: 430px;
+  font-size: 15px;
+}
+
+.fourteen {
+  font-weight: bold;
+  color: black;
+text-decoration: red underline;
+margin-right: 640px;
+font-weight: bold;
+font-size: 20px;
+}
+
+.fifteen {
+  color: black;
+  margin-right: 470px;
+  font-size: 15px;
+}
+
+.sixteen {
+  color: black;
+  margin-right: 500px;
+}
+
+.seventeen {
+  font-weight: bold;
+  color: black;
+  text-decoration: red underline;
+  font-size: 20px;
+  margin-right: 570px
+}
+
+
+.eighteen {
+  color: black;
+  margin-right: 300px;
+}
